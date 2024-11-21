@@ -1,3 +1,5 @@
+https://youtu.be/CyisVTT0JPo  Youtube video https://youtu.be/CyisVTT0JPo
+
 A landing page(homepage) was added as I previously did not have one. The landing page has a logo as mentioned in my feedback as well as a button that takes you to the home screen of the app.
 
 Homepage was created using Visily 
@@ -75,6 +77,19 @@ Dessert code
 ![Screenshot (64)](https://github.com/user-attachments/assets/b152e89d-3976-49dc-9eb8-76048dd52946)
 
 ![Screenshot (65)](https://github.com/user-attachments/assets/ee44d463-8d30-4e56-8835-061271f280df)
+
+Add dish code
+
+![Screenshot 2024-11-21 091046](https://github.com/user-attachments/assets/565bf07a-1a48-4f10-a086-20a22f92b6ae)
+
+Remove dish code
+![Screenshot (67)](https://github.com/user-attachments/assets/1b982b10-e5a9-4b34-af4d-4cad7c76f760)
+
+![Screenshot (68)](https://github.com/user-attachments/assets/82789f77-8451-4b30-8d02-af76ab875d03)
+
+![Screenshot (69)](https://github.com/user-attachments/assets/5e41b5c8-a139-4d91-b0ee-461640227d1a)
+
+
 
 
 

@@ -37,5 +37,10 @@ This is where the Chef is able to remove any dishes.
 ![Screenshot (47)](https://github.com/user-attachments/assets/eab2b4b7-3987-4bbe-8801-04ded8de6f48)
 
 
+![Screenshot (54)](https://github.com/user-attachments/assets/e04ec372-f355-471f-a3f6-b636d10fc156)
+
+
+![Screenshot (55)](https://github.com/user-attachments/assets/27f4d1b8-1922-490d-a1a7-a165674b076b)
+
 
 

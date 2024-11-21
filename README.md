@@ -32,6 +32,8 @@ The AddDish screen was implemeted as per feedback and instructions
 
 
 ![Screenshot (48)](https://github.com/user-attachments/assets/b5c6eaed-45b3-4d6d-bff5-549e1657419d)
+![Screenshot (72)](https://github.com/user-attachments/assets/36e64689-2818-471b-aac5-bda62bc47db7)
+
 
 
 This is where the Chef is able to remove any dishes.

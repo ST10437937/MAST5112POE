@@ -19,6 +19,8 @@ This is the new homepage.
 
 
 I coded 7 screens namely Homepage.js, Menuscreen.js this is the screen where the menu can be seen and filtered to prefered course, Main.js, Starter.js, Dessert.js, AddDish.js and RemoveDish.js.
+
+
 In the Add and Remove screens the meals selected are stored in an array.
 
 ![Screenshot (53)](https://github.com/user-attachments/assets/ff158736-0f66-4daa-a480-865c108fcdeb)
@@ -26,4 +28,11 @@ In the Add and Remove screens the meals selected are stored in an array.
 
 The AddDish screen was implemeted as per feedback and instructions
 
+
 ![Screenshot (48)](https://github.com/user-attachments/assets/b5c6eaed-45b3-4d6d-bff5-549e1657419d)
+
+
+This is where the Chef is able to remove any dishes.
+
+![Screenshot (47)](https://github.com/user-attachments/assets/eab2b4b7-3987-4bbe-8801-04ded8de6f48)
+

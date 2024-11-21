@@ -43,4 +43,46 @@ This is where the Chef is able to remove any dishes.
 ![Screenshot (55)](https://github.com/user-attachments/assets/27f4d1b8-1922-490d-a1a7-a165674b076b)
 
 
+App.js
+
+
+![Screenshot (56)](https://github.com/user-attachments/assets/cb97eddf-f2ff-45e0-a8f1-ef20de2dbf98)
+
+
+Menupage code
+
+![Screenshot (57)](https://github.com/user-attachments/assets/e9e504d0-df48-4bc3-8dce-4586bb45871f)
+
+![Screenshot (58)](https://github.com/user-attachments/assets/ec15bb04-5519-46b4-b717-a5f5440646ac)
+
+
+Starter code
+
+![Screenshot (60)](https://github.com/user-attachments/assets/59655311-cfa7-4a31-a049-becd5176fb45)
+
+![Screenshot (61)](https://github.com/user-attachments/assets/16c8054d-2794-4466-879c-8881f48d0153)
+
+
+Main code
+
+![Screenshot (62)](https://github.com/user-attachments/assets/604152b0-4cfc-4d48-a65d-96d7341db57c)
+
+![Screenshot (63)](https://github.com/user-attachments/assets/f4d9eeaa-129a-4e4e-b177-de5455a51475)
+
+
+Dessert code
+
+![Screenshot (64)](https://github.com/user-attachments/assets/b152e89d-3976-49dc-9eb8-76048dd52946)
+
+![Screenshot (65)](https://github.com/user-attachments/assets/ee44d463-8d30-4e56-8835-061271f280df)
+
+
+
+
+
+
+
+
+
+
 
